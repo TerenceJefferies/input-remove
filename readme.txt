@@ -1,0 +1,1 @@
+Using the input-remove.js script couldn't be simpler, include jquery.js (found in the JS folder of this package), include input-remove.js (Also found in the JS folder of this package) and add the class "input-remove" to all fields that you want to strip the content of upon focus. Enjoy.
